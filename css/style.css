@@ -3,13 +3,11 @@ body {
 }
 
 p {
-  color: #0000ff;
   font-size: 12px;
   text-decoration: line-through;
 }
 
 h1, h2{
-  color: #008000;
   background-color: #888888;
 }
 
@@ -22,4 +20,16 @@ h1{
   margin: 20px;
   padding: 40px;
   border: 5px dashed red;
+}
+
+#intro{
+  border: 1px solid black;
+}
+
+.spotlight{
+  background-color: #FEFE22;
+}
+
+h2, p{
+  color: darkgreen;
 }
